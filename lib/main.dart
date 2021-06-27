@@ -285,7 +285,7 @@ class _HomeState extends State<Home> {
     });
   }
 
-////////////@Alex kubiaki dos santos -- Pandemia Mode On  --->  15/05/2021 as 00:19
+
 ////////////////////dropdown com escolha de sexo menino ou menina/////////////////
   String camposexo = 'Meninos';
 
